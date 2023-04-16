@@ -82,7 +82,7 @@ const promptUser = () => {
       let logo = `<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n`;
       logo += `<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">\n`;
       logo += shape.render() + "n";
-      logo += `<text x="140" y="100" font-size="30px" fill="${answers.textColor}">${answers.characters}</text>\n`;
+      logo += `<text x="150" y="100" font-size="30px" text-anchor="middle" alignment-baseline="middle" fill="${answers.textColor}">${answers.characters}</text>\n`;
       logo += `</svg>`;
 
       // Writes file to examples folder and names it ${logoName}
