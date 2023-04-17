@@ -19,6 +19,7 @@
   - [Usage](#usage)
   - [License](#license)
   - [Tests](#tests)
+  - [Repo](#repo)
   - [Contributors](#contributors)
 
 ## Installation
@@ -32,6 +33,9 @@ MIT
 
 ## Tests
 To run a test, run this command: npm test
+
+## Repo
+Link to the application's repo: [Logo-Maker](https://github.com/Steveb175/Logo-Maker)
 
 ## Contributors
 Link to creator's GitHub: [Steveb175](https://github.com/Steveb175)
